@@ -2,5 +2,6 @@ Das Ohm’sche
 Gesetz handelt
 von der
 Wechselwirkung
-von Spannung und
-Strom
+von Spannung,
+Strom und
+Widerstand.
